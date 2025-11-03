@@ -1,5 +1,3 @@
-Got it ✅
-Here is a **full-stack GitHub README.md** for your **MERN E-Commerce Project** — clean, professional, and ready to copy-paste.
 
 ---
 
