@@ -82,7 +82,7 @@ A complete **full-stack E-Commerce application** built using the **MERN stack** 
 ## 📁 Project Structure
 
 ### Backend (MVC)
-```
+
 
 backend/
 ├── controllers/
